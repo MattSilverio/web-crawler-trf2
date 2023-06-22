@@ -56,7 +56,7 @@ Notei que na busca por número de processo, é feito um POST passando o número 
 
 - Me dediquei primeiramente para entender a biblioteca beautifulsoap e o que encontrei de dificuldade foi poder fazer o "crawling" nas tabelas. O site não diferencia as tabelas que estão na página, contendo os mesmos atributos nas tags HTML de tabela.
 
-- Foi um pouco trabalhoso iterar em cada Table Row (<tr>) para pegar Table Datas (<td>) específicos.
+- Foi um pouco trabalhoso iterar em cada Table Rows (tr) para pegar Table Datas (td) específicos.
 
 - Meu tempo de dedicação a esse desafio se resumiu em menos de 6 horas e foi somente a partir de 12h do dia 22/06/2023. Assim que peguei o jeito com a funcionalidade de busca por número de processo o restante seria fácil e rápido, se os outros tipos de consulta seguissem a mesma forma que por número de processo.
 
